@@ -131,7 +131,7 @@ Follow these steps to use the app:
    - Giraffe
    - Hunter
 2. Place and use the official Zoo Safari mat. Ensure the mat size is **10 × 10 ft** and laid flat, with good lighting.
-   - Download the Zoo Safari mat: [Download Mat (dummy link)](https://example.com/zoo-safari-mat)
+   - Download the Zoo Safari mat: [Download Mat](https://example.com/zoo-safari-mat)
 3. Upload the Zeno_firmware code to the bot using Arduino IDE:
    - Open the Zeno_firmware in Arduino IDE.
    - Use the same board and port settings as in the setup steps.
