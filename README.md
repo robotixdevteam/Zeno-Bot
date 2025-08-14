@@ -125,7 +125,7 @@ Follow these steps to use the app:
 
 ## 🦁 Zoo Safari requirements
 
-1. Prepare the animal cards (size: **210 mm × 99 mm**):
+1. Prepare the [animal cards](https://github.com/robotixdevteam/Zeno-Bot/blob/main/Documents/Images/Animal%20Cards.pdf) (size: **210 mm × 99 mm**):
    - Zebra
    - Elephant
    - Giraffe
